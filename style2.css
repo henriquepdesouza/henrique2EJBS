@@ -21,3 +21,18 @@ justify-content: space-around;
 color: darkred;
 
 }
+.primeira-parte{
+  background-image: linear-gradient(#424E61, white );
+height: 500px;
+padding: 100px;
+display: flex;
+}
+.lista-cabecalho{
+    padding: 15xp;
+}
+.quem-somos{
+    padding: 20xp;
+}
+.Estudantes{
+    width: 25%;
+}
