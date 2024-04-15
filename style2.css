@@ -15,10 +15,11 @@ justify-content: space-around;
 }
 .lista-item{
     display: inline-block;
+    padding: 15px;
 
 }
 .primeira-parte{
-color: darkred;
+color: white;
 
 }
 .primeira-parte{
@@ -27,12 +28,13 @@ height: 500px;
 padding: 100px;
 display: flex;
 }
+
 .lista-cabecalho{
-    padding: 15xp;
+    padding: 15px;
 }
 .quem-somos{
-    padding: 20xp;
+    padding: 20px;
 }
 .Estudantes{
-    width: 25%;
+    width: 35%;
 }
